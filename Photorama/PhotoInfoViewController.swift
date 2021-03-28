@@ -24,4 +24,5 @@ class PhotoInfoViewController: UIViewController {
             }
         }
     }
+    
 }

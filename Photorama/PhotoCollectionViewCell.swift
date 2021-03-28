@@ -14,5 +14,5 @@ class PhotoCollectionViewCell: UICollectionViewCell {
             imageView.image = nil
         }
     }
-    
 }
+
