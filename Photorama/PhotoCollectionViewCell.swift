@@ -1,11 +1,3 @@
-//
-//  PhotoCollectionViewCell.swift
-//  Photorama
-//
-//  Created by vaibhavi on 2021-03-26.
-//
-
-
 import UIKit
 
 class PhotoCollectionViewCell: UICollectionViewCell {

@@ -1,10 +1,3 @@
-//
-//  PhotoramaTests.swift
-//  PhotoramaTests
-//
-//  Created by vaibhavi on 2021-03-26.
-//
-
 import XCTest
 @testable import Photorama
 

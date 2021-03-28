@@ -1,10 +1,3 @@
-//
-//  Photo.swift
-//  Photorama
-//
-//  Created by vaibhavi on 2021-03-26.
-//
-
 import Foundation
 
 class Photo: Codable {
